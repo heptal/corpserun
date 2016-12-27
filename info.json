@@ -1,0 +1,10 @@
+{
+  "name": "corpserun",
+  "version": "1.0.0",
+  "factorio_version": "0.14",
+  "title": "CorpseRun - Drop inventory items upon player death",
+  "author": "heptal",
+  "contact": "michael@heptal.com",
+  "homepage": "https://github.com/heptal/corpserun",
+  "description": "Drops items on death, allowing the player to run back and loot their corpse"
+}
